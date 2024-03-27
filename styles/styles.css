@@ -137,6 +137,9 @@
   background-color: transparent;
 }
 .vector{
+  position: absolute;
+  top: 10px;
+  left: 10px;
   mix-blend-mode: color-dodge;
   width: 464px;
   height: 807px;
