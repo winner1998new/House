@@ -127,3 +127,16 @@ body {
       font-size: 14px;
       font-weight: 500;
   }
+  .iftw{
+    display: block;
+    float: right;
+    width: 30px;
+  }
+  .iftw-button{
+    transform: rotate(270deg);
+    float: right;
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+    cursor: pointer;
+  }
